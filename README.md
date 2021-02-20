@@ -1,4 +1,4 @@
-# TextAnalysisGUI
+# Text Analysis Tool
 Text analysis toolkit for Data Structures course project
 
 ![Main Page](images/TextAnalyzer_Main.PNG)
